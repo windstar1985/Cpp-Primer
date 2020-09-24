@@ -2,4 +2,15 @@
 git config  --global user.email "530546168@163.com"
 git clone https://github.com/windstar1985/Cpp-Primer.git
 
+git add git_command 
 
+
+git status
+git commit -m "first_time_about git command" git_command 
+git push -u origin master
+
+
+git_command修改後:
+git status
+git commit -m "第二次_about git command" git_command 
+git push -u origin master
